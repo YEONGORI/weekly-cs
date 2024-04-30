@@ -33,7 +33,6 @@ ASCII 문자로 표현 가능한 가장 큰 진법이 64진법이다. 65는 6개
 >010101 - to dec -> 21 - to base64 -> V
 >111001 - to dec -> 57 - to base64 -> 5
 >
->![Alt text](image.png)
 >
 >#### 결과 값: SGV5Cg==
 >
